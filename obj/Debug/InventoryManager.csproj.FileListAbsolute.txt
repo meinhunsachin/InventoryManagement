@@ -1,0 +1,10 @@
+F:\BMICALCULATOR\InventoryManager\bin\Debug\InventoryManager.exe.config
+F:\BMICALCULATOR\InventoryManager\bin\Debug\InventoryManager.exe
+F:\BMICALCULATOR\InventoryManager\bin\Debug\InventoryManager.pdb
+F:\BMICALCULATOR\InventoryManager\obj\Debug\InventoryManager.csproj.AssemblyReference.cache
+F:\BMICALCULATOR\InventoryManager\obj\Debug\InventoryManager.InventoryMangementStudio.resources
+F:\BMICALCULATOR\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+F:\BMICALCULATOR\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.cache
+F:\BMICALCULATOR\InventoryManager\obj\Debug\InventoryManager.csproj.CoreCompileInputs.cache
+F:\BMICALCULATOR\InventoryManager\obj\Debug\InventoryManager.exe
+F:\BMICALCULATOR\InventoryManager\obj\Debug\InventoryManager.pdb
